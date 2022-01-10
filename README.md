@@ -83,13 +83,17 @@ Circuito armado:
 
 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
+![image](https://user-images.githubusercontent.com/93835463/148716337-7823fee6-6e08-4fad-a38f-ed1b15bbc990.png)
+
+![image](https://user-images.githubusercontent.com/93835463/148716347-21749730-c898-4e6b-929b-3d99f39511d6.png)
+
+![image](https://user-images.githubusercontent.com/93835463/148716358-02a9fe4c-a47a-410f-966b-9ad1729c522d.png)
+
 VIDEOS:
 
 https://www.youtube.com/watch?v=pMcZ_7qd2DI
 
 https://www.youtube.com/watch?v=NcxrnyYwoP0
-
-
 
 CONCLUSIONES:
 
