@@ -85,6 +85,12 @@ RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR:
 
 VIDEOS:
 
+https://www.youtube.com/watch?v=pMcZ_7qd2DI
+
+https://www.youtube.com/watch?v=NcxrnyYwoP0
+
+
+
 CONCLUSIONES:
 
 Comprendimos que el teorema de thevenin permite convertir un circuito complejo en un circuito sencillo para un estudio y obtencion de resultados mas sencillos.
